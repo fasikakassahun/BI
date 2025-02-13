@@ -28,11 +28,8 @@ Follow the steps below to download, clean, load, and visualize the data:
 
 3. **Run the files**  
    - step 1: Run
-     `download_data_from_kaggle.py` 
-     This python code downloads and saves the data
+     `download_data_from_kaggle.py`  This python code downloads and saves the data
    - step 2: Run  
-     `_clen_store_data.py` 
-     This python code clean and transforms the data
+     `_clen_store_data.py` This python code clean and transforms the data
    - step 3: Run 
-     `load_dataset.py` 
-     This python code loads the cleaned data
+     `load_dataset.py` This python code loads the cleaned data
