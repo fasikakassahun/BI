@@ -1,6 +1,6 @@
 Name: Fasika kassahun ID: DBUR/4100/13
 
-### 4. How to run and get the result  
+### How to run and get the result  
 Follow the steps below to download, clean, load, and visualize the data:  
 
 1. **clone the repository**  
